@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,49 +11,36 @@ using System.Windows.Forms;
 
 namespace HackManchester
 {
-    public partial class homePage : Form
+    public partial class HomePage : Form
+
+        
     {
         
-        public homePage()
+        public HomePage()
         {
             InitializeComponent();
+            titleLbl.BackColor = Color.Transparent;
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void loginBtn_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Login login = new Login();
+            login.Show();
         }
 
-        private void roundButton2_Click(object sender, EventArgs e)
-        {
+       
 
+        private void exitBtn_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void registerBtn_Click(object sender, EventArgs e)
         {
-            DateTime dt = DateTime.Now;
-            dtLabel.Text = dt.ToString();
-
-        }
-
-        private void sunriseTimeLbl_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void sunriseLbl_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void sunsetTimeLbl_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void sunsetLbl_Click(object sender, EventArgs e)
-        {
-
+            this.Hide();
+            Register register = new Register();
+            register.Show();
         }
     }
 }

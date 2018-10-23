@@ -8,3 +8,15 @@ C:\Users\krazy\Google Drive\Uni 2017\Year 2\Hackathon\HackManchester\HackManches
 C:\Users\krazy\Google Drive\Uni 2017\Year 2\Hackathon\HackManchester\HackManchester\bin\Debug\HackManchester.pdb
 C:\Users\krazy\Google Drive\Uni 2017\Year 2\Hackathon\HackManchester\HackManchester\obj\Debug\HackManchester.exe
 C:\Users\krazy\Google Drive\Uni 2017\Year 2\Hackathon\HackManchester\HackManchester\obj\Debug\HackManchester.pdb
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\bin\Debug\HackManchester.exe.config
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\bin\Debug\HackManchester.exe
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\bin\Debug\HackManchester.pdb
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.csprojAssemblyReference.cache
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.Properties.Resources.resources
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.Register.resources
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.csproj.GenerateResource.cache
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.csproj.CoreCompileInputs.cache
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.exe
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.pdb
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.Login.resources
+C:\Users\krazy\source\repos\Becca6717\hackManchester\HackManchester\HackManchester\HackManchester\obj\Debug\HackManchester.HomePage.resources
